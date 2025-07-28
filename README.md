@@ -18,7 +18,7 @@ Hi, I'm Salma Hamido, a Front-end developer.
 
 **About Me:**
 
-- 👀  I’m interested to be a Full-stack developer.
+- 👀  I’m interested to be a fullstack developer.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: [salmahamido](https://www.linkedin.com/in/salmahamido/).
 
